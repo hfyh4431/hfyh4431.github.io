@@ -42,7 +42,7 @@ permalink: /curated/
 - [Intro to Graphics](http://bcb.dfci.harvard.edu/~aedin/courses/Bioconductor/2.Plotting.pdf)
 - [data.table cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/img/blog/data+table+cheat+sheet.pdf)
 - [Exploratory Data Analysis with data.table](http://varianceexplained.org/RData/lessons/lesson4/)
-- [Fast summary statistics in R with data.table](http://blog.yhathq.com/posts/fast-summary-statistics-with-data-dot-table.html)
+- [Fast summary statistics in R with data.table](http://blog.yhathq.com/posts/fast-summary-statgistics-with-data-dot-table.html)
 - [R online in r-fiddle.org](http://www.r-fiddle.org/)
 
 ### Probability and Statistics
